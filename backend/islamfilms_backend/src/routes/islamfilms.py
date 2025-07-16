@@ -8,7 +8,7 @@ islamfilms_bp = Blueprint('islamfilms', __name__)
 
 # إعداد DeepSeek API (سيتم استخدام OpenAI SDK مع DeepSeek)
 # يمكن للمستخدم إضافة مفتاح API الخاص به هنا
-DEEPSEEK_API_KEY = "your-deepseek-api-key-here"  # يجب استبدال هذا بمفتاح API حقيقي
+DEEPSEEK_API_KEY = "sk-f43cb06e89fe42c29da37cd0ee6b1ee7"  # يجب استبدال هذا بمفتاح API حقيقي
 DEEPSEEK_BASE_URL = "https://api.deepseek.com"
 
 # إعداد عميل OpenAI للعمل مع DeepSeek
